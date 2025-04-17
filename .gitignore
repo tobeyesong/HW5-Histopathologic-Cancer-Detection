@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+.env
+
+# Data
+data/
+*.tif
+
+# Model checkpoints / artifacts
+models/
+outputs/
+artifacts/
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
